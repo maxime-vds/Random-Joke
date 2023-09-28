@@ -50,6 +50,7 @@ Open your browser and visit http://localhost:3000 to access the Radom Generator.
 ## Project structure 
 
 - `/src`: Contains the source code for the ReactJS frontend.
+  - `/assets`: Reusable Images.
   - `/components`: Reusable React components.
    - `/styles`: Stylesheets, styled with Tailwind CSS. 
 
