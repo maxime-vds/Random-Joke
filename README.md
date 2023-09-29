@@ -1,6 +1,6 @@
 # Random-Joke
 
-![Project Images](link-to-your-project-image.png) comming soon 
+![Project Images](Rabdom-Joke-img/1-joke.png) 
 
 ## Table of Contents
 - [Overview](#overview)
@@ -12,14 +12,17 @@
 - [License](#license)
 
 ---
+
 ## Overview
 The Random Joke Generator is a simple web application built with React.js and styled with Tailwind CSS. It fetches random jokes from an external API and displays them to the user. It's a fun and light-hearted project to bring laughter to your day!
 
 This project is responsive
 
-**Screenshots:** 
+**Screenshots: (more img inside the folder random joke)** 
 
+![Project Images](Rabdom-Joke-img/2-joke.png) 
 ---
+
 ## Features
 
 - Fetches and displays random jokes from an external API.
@@ -27,6 +30,7 @@ This project is responsive
 - Responsive design for a seamless experience on different devices.
 
 ---
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -35,6 +39,7 @@ Before you begin, ensure you have met the following requirements:
 - Clone this repository to your local machine.
 
 ---
+
 ## Getting Started
 
 Follow these steps to get your project up and running:
@@ -47,6 +52,7 @@ Follow these steps to get your project up and running:
 Open your browser and visit http://localhost:3000 to access the Radom Generator.
 
 ---
+
 ## Project structure 
 
 - `/src`: Contains the source code for the ReactJS frontend.
@@ -54,6 +60,7 @@ Open your browser and visit http://localhost:3000 to access the Radom Generator.
   - `/components`: Reusable React components.
    - `/styles`: Stylesheets, styled with Tailwind CSS. 
 
+---
 
 ## Usage
 To use the Random Joke Generator:
@@ -62,6 +69,7 @@ To use the Random Joke Generator:
 * Click the "Get Joke" button to fetch and display a random joke.
 * Enjoy the humor!
 
+---
 
 ## License
 This project is licensed under the MIT License. 
